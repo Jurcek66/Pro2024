@@ -10,7 +10,20 @@ namespace Prvaaplikacija
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hellou");
+            int št1 = 15;
+            int št2 = 25;
+
+            Console.WriteLine("moje število 1 je {0,5}, drugo število je {1,5}", št1, št2);
+            //celoštevilski formati
+            Console.WriteLine("Decimalno {0,5:d}", št1);
+            Console.WriteLine("Decimalno {0,5:x}", št1);
+            double r = 1234.56789;
+            Console.WriteLine("Realno število decimal z 10:f3= {0,10:f3}", r);
+            Console.WriteLine("Realno število z 10:e3= {0,10:e3}", r);
+            Console.WriteLine("Realno število z 10:p2= {0,10:p2}", r);
+            Console.WriteLine("Realno število z 10:n2= {0,10:n2}", r);
+            Console.WriteLine("Realno število z 10:g2= {0,10:g2}", r);
+            Console.WriteLine("Realno število decimalno z 10:c2= {0,10:c2}", r);
         }
     }
 }
