@@ -1,0 +1,8 @@
+C:\Pro2024\zanke\bin\Debug\zanke.exe.config
+C:\Pro2024\zanke\bin\Debug\zanke.exe
+C:\Pro2024\zanke\bin\Debug\zanke.pdb
+C:\Pro2024\zanke\obj\Debug\zanke.csproj.AssemblyReference.cache
+C:\Pro2024\zanke\obj\Debug\zanke.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\zanke\obj\Debug\zanke.csproj.CoreCompileInputs.cache
+C:\Pro2024\zanke\obj\Debug\zanke.exe
+C:\Pro2024\zanke\obj\Debug\zanke.pdb
