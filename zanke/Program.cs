@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -84,18 +85,34 @@ namespace zanke
              Console.WriteLine(avg);*/
 
             //četrta
-            float sumZneskov = 0;
-            float posameztenznesek;
-            float posamezneobr = 0;
-            float skupneobr = 0;
-            Random r = new Random();
-            for (int i=1;i<=100000;i++)
-            {
-                posameztenznesek = r.Next(1000000);
-                sumZneskov += posameztenznesek;
-                Console.WriteLine(sumZneskov);
-            }
-            skupneobr = sumZneskov * 0.023;
+            /* float sumZneskov = 0;
+             float posamezenznesek;
+             float posamezneobr = 0;
+             float skupneobr = 0;
+             Random r = new Random();
+             for (int i=1;i<=100000;i++)
+             {
+                 posamezenznesek = r.Next(1000000);
+                 sumZneskov += posamezenznesek;
+                 posamezneobr = (float)(posamezneobr + posamezenznesek * 0.023);
+             }
+             skupneobr = (float)(sumZneskov * 0.023);
+             Console.WriteLine("Skupne obresti: "+skupneobr);
+             Console.WriteLine("Posamezne obresti: "+posamezneobr);
+            */
+           /* 
+            double r1 = 20;
+            double r2 = -13.6667;
+            double r3 = 17;
+            double r4 = 12.88;
+            double r5 = 2222.879;
+            Console.WriteLine("{0,20:f2}", r1);
+            Console.WriteLine("{0,20:f2}", r2);
+            Console.WriteLine("{0,20:f2}", r3);
+            Console.WriteLine("{0,20:f2}", r4);
+            Console.WriteLine("{0,20:f2}", r5);
+            */
+            Console.WriteLine((int)'+');
 
 
 
