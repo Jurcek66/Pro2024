@@ -1,0 +1,8 @@
+C:\Pro2024\vaje if in switch\bin\Debug\vaje if in switch.exe.config
+C:\Pro2024\vaje if in switch\bin\Debug\vaje if in switch.exe
+C:\Pro2024\vaje if in switch\bin\Debug\vaje if in switch.pdb
+C:\Pro2024\vaje if in switch\obj\Debug\vaje if in switch.csproj.AssemblyReference.cache
+C:\Pro2024\vaje if in switch\obj\Debug\vaje if in switch.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\vaje if in switch\obj\Debug\vaje if in switch.csproj.CoreCompileInputs.cache
+C:\Pro2024\vaje if in switch\obj\Debug\vaje if in switch.exe
+C:\Pro2024\vaje if in switch\obj\Debug\vaje if in switch.pdb
