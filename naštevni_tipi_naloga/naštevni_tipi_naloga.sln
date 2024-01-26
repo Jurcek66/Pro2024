@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naštevni_tipi_naloga", "naštevni_tipi_naloga.csproj", "{7AC8261D-5024-4C27-A26A-5E716C763D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC8261D-5024-4C27-A26A-5E716C763D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8261D-5024-4C27-A26A-5E716C763D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8261D-5024-4C27-A26A-5E716C763D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8261D-5024-4C27-A26A-5E716C763D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55FA1AE3-700B-40DB-86E8-909D2FA1E54F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Pro2024\naštevni_tipi_naloga\bin\Debug\naštevni_tipi_naloga.exe.config
+C:\Pro2024\naštevni_tipi_naloga\bin\Debug\naštevni_tipi_naloga.exe
+C:\Pro2024\naštevni_tipi_naloga\bin\Debug\naštevni_tipi_naloga.pdb
+C:\Pro2024\naštevni_tipi_naloga\obj\Debug\naštevni_tipi_naloga.csproj.AssemblyReference.cache
+C:\Pro2024\naštevni_tipi_naloga\obj\Debug\naštevni_tipi_naloga.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\naštevni_tipi_naloga\obj\Debug\naštevni_tipi_naloga.csproj.CoreCompileInputs.cache
+C:\Pro2024\naštevni_tipi_naloga\obj\Debug\naštevni_tipi_naloga.exe
+C:\Pro2024\naštevni_tipi_naloga\obj\Debug\naštevni_tipi_naloga.pdb
