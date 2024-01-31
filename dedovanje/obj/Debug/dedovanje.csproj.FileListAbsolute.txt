@@ -1,0 +1,8 @@
+C:\Pro2024\dedovanje\bin\Debug\dedovanje.exe.config
+C:\Pro2024\dedovanje\bin\Debug\dedovanje.exe
+C:\Pro2024\dedovanje\bin\Debug\dedovanje.pdb
+C:\Pro2024\dedovanje\obj\Debug\dedovanje.csproj.AssemblyReference.cache
+C:\Pro2024\dedovanje\obj\Debug\dedovanje.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\dedovanje\obj\Debug\dedovanje.csproj.CoreCompileInputs.cache
+C:\Pro2024\dedovanje\obj\Debug\dedovanje.exe
+C:\Pro2024\dedovanje\obj\Debug\dedovanje.pdb
