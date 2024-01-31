@@ -1,0 +1,8 @@
+C:\Pro2024\razrediVaje\bin\Debug\razrediVaje.exe.config
+C:\Pro2024\razrediVaje\bin\Debug\razrediVaje.exe
+C:\Pro2024\razrediVaje\bin\Debug\razrediVaje.pdb
+C:\Pro2024\razrediVaje\obj\Debug\razrediVaje.csproj.AssemblyReference.cache
+C:\Pro2024\razrediVaje\obj\Debug\razrediVaje.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\razrediVaje\obj\Debug\razrediVaje.csproj.CoreCompileInputs.cache
+C:\Pro2024\razrediVaje\obj\Debug\razrediVaje.exe
+C:\Pro2024\razrediVaje\obj\Debug\razrediVaje.pdb
