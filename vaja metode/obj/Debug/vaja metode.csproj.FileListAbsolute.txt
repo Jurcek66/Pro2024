@@ -1,0 +1,8 @@
+C:\Pro2024\vaja metode\bin\Debug\vaja metode.exe.config
+C:\Pro2024\vaja metode\bin\Debug\vaja metode.exe
+C:\Pro2024\vaja metode\bin\Debug\vaja metode.pdb
+C:\Pro2024\vaja metode\obj\Debug\vaja metode.csproj.AssemblyReference.cache
+C:\Pro2024\vaja metode\obj\Debug\vaja metode.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\vaja metode\obj\Debug\vaja metode.csproj.CoreCompileInputs.cache
+C:\Pro2024\vaja metode\obj\Debug\vaja metode.exe
+C:\Pro2024\vaja metode\obj\Debug\vaja metode.pdb
