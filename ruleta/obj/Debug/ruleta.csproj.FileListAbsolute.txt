@@ -1,0 +1,8 @@
+C:\Pro2024\ruleta\bin\Debug\ruleta.exe.config
+C:\Pro2024\ruleta\bin\Debug\ruleta.exe
+C:\Pro2024\ruleta\bin\Debug\ruleta.pdb
+C:\Pro2024\ruleta\obj\Debug\ruleta.csproj.AssemblyReference.cache
+C:\Pro2024\ruleta\obj\Debug\ruleta.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\ruleta\obj\Debug\ruleta.csproj.CoreCompileInputs.cache
+C:\Pro2024\ruleta\obj\Debug\ruleta.exe
+C:\Pro2024\ruleta\obj\Debug\ruleta.pdb
