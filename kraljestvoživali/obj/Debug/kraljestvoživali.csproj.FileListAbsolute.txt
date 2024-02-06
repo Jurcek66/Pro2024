@@ -1,0 +1,8 @@
+C:\Pro2024\kraljestvoživali\bin\Debug\kraljestvoživali.exe.config
+C:\Pro2024\kraljestvoživali\bin\Debug\kraljestvoživali.exe
+C:\Pro2024\kraljestvoživali\bin\Debug\kraljestvoživali.pdb
+C:\Pro2024\kraljestvoživali\obj\Debug\kraljestvoživali.csproj.AssemblyReference.cache
+C:\Pro2024\kraljestvoživali\obj\Debug\kraljestvoživali.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\kraljestvoživali\obj\Debug\kraljestvoživali.csproj.CoreCompileInputs.cache
+C:\Pro2024\kraljestvoživali\obj\Debug\kraljestvoživali.exe
+C:\Pro2024\kraljestvoživali\obj\Debug\kraljestvoživali.pdb
