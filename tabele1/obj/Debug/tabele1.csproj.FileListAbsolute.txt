@@ -1,0 +1,8 @@
+C:\Pro2024\tabele1\bin\Debug\tabele1.exe.config
+C:\Pro2024\tabele1\bin\Debug\tabele1.exe
+C:\Pro2024\tabele1\bin\Debug\tabele1.pdb
+C:\Pro2024\tabele1\obj\Debug\tabele1.csproj.AssemblyReference.cache
+C:\Pro2024\tabele1\obj\Debug\tabele1.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\tabele1\obj\Debug\tabele1.csproj.CoreCompileInputs.cache
+C:\Pro2024\tabele1\obj\Debug\tabele1.exe
+C:\Pro2024\tabele1\obj\Debug\tabele1.pdb
