@@ -1,0 +1,8 @@
+C:\Pro2024\SprehodPoHiši\bin\Debug\SprehodPoHiši.exe.config
+C:\Pro2024\SprehodPoHiši\bin\Debug\SprehodPoHiši.exe
+C:\Pro2024\SprehodPoHiši\bin\Debug\SprehodPoHiši.pdb
+C:\Pro2024\SprehodPoHiši\obj\Debug\SprehodPoHiši.csproj.AssemblyReference.cache
+C:\Pro2024\SprehodPoHiši\obj\Debug\SprehodPoHiši.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\SprehodPoHiši\obj\Debug\SprehodPoHiši.csproj.CoreCompileInputs.cache
+C:\Pro2024\SprehodPoHiši\obj\Debug\SprehodPoHiši.exe
+C:\Pro2024\SprehodPoHiši\obj\Debug\SprehodPoHiši.pdb
