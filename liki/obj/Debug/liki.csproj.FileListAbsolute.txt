@@ -1,0 +1,11 @@
+C:\Pro2024\liki\bin\Debug\liki.exe.config
+C:\Pro2024\liki\bin\Debug\liki.exe
+C:\Pro2024\liki\bin\Debug\liki.pdb
+C:\Pro2024\liki\obj\Debug\liki.csproj.AssemblyReference.cache
+C:\Pro2024\liki\obj\Debug\liki.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\liki\obj\Debug\liki.Form1.resources
+C:\Pro2024\liki\obj\Debug\liki.Properties.Resources.resources
+C:\Pro2024\liki\obj\Debug\liki.csproj.GenerateResource.cache
+C:\Pro2024\liki\obj\Debug\liki.csproj.CoreCompileInputs.cache
+C:\Pro2024\liki\obj\Debug\liki.exe
+C:\Pro2024\liki\obj\Debug\liki.pdb

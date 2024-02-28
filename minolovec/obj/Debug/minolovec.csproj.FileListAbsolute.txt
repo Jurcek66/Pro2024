@@ -1,0 +1,11 @@
+C:\Pro2024\minolovec\bin\Debug\minolovec.exe.config
+C:\Pro2024\minolovec\bin\Debug\minolovec.exe
+C:\Pro2024\minolovec\bin\Debug\minolovec.pdb
+C:\Pro2024\minolovec\obj\Debug\minolovec.csproj.AssemblyReference.cache
+C:\Pro2024\minolovec\obj\Debug\minolovec.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\minolovec\obj\Debug\minolovec.Properties.Resources.resources
+C:\Pro2024\minolovec\obj\Debug\minolovec.csproj.GenerateResource.cache
+C:\Pro2024\minolovec\obj\Debug\minolovec.csproj.CoreCompileInputs.cache
+C:\Pro2024\minolovec\obj\Debug\minolovec.exe
+C:\Pro2024\minolovec\obj\Debug\minolovec.pdb
+C:\Pro2024\minolovec\obj\Debug\minolovec.Form1.resources
