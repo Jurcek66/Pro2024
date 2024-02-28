@@ -1,0 +1,8 @@
+C:\Pro2024\tabela objektov\bin\Debug\tabela objektov.exe.config
+C:\Pro2024\tabela objektov\bin\Debug\tabela objektov.exe
+C:\Pro2024\tabela objektov\bin\Debug\tabela objektov.pdb
+C:\Pro2024\tabela objektov\obj\Debug\tabela objektov.csproj.AssemblyReference.cache
+C:\Pro2024\tabela objektov\obj\Debug\tabela objektov.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\tabela objektov\obj\Debug\tabela objektov.csproj.CoreCompileInputs.cache
+C:\Pro2024\tabela objektov\obj\Debug\tabela objektov.exe
+C:\Pro2024\tabela objektov\obj\Debug\tabela objektov.pdb
