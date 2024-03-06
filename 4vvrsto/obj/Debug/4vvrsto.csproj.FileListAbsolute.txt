@@ -1,0 +1,11 @@
+C:\Pro2024\4vvrsto\bin\Debug\4vvrsto.exe.config
+C:\Pro2024\4vvrsto\bin\Debug\4vvrsto.exe
+C:\Pro2024\4vvrsto\bin\Debug\4vvrsto.pdb
+C:\Pro2024\4vvrsto\obj\Debug\4vvrsto.csproj.AssemblyReference.cache
+C:\Pro2024\4vvrsto\obj\Debug\4vvrsto.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\4vvrsto\obj\Debug\_4vvrsto.Form1.resources
+C:\Pro2024\4vvrsto\obj\Debug\_4vvrsto.Properties.Resources.resources
+C:\Pro2024\4vvrsto\obj\Debug\4vvrsto.csproj.GenerateResource.cache
+C:\Pro2024\4vvrsto\obj\Debug\4vvrsto.csproj.CoreCompileInputs.cache
+C:\Pro2024\4vvrsto\obj\Debug\4vvrsto.exe
+C:\Pro2024\4vvrsto\obj\Debug\4vvrsto.pdb
