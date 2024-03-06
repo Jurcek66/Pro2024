@@ -1,0 +1,11 @@
+C:\Pro2024\fotografije\bin\Debug\fotografije.exe.config
+C:\Pro2024\fotografije\bin\Debug\fotografije.exe
+C:\Pro2024\fotografije\bin\Debug\fotografije.pdb
+C:\Pro2024\fotografije\obj\Debug\fotografije.csproj.AssemblyReference.cache
+C:\Pro2024\fotografije\obj\Debug\fotografije.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\fotografije\obj\Debug\fotografije.Form1.resources
+C:\Pro2024\fotografije\obj\Debug\fotografije.Properties.Resources.resources
+C:\Pro2024\fotografije\obj\Debug\fotografije.csproj.GenerateResource.cache
+C:\Pro2024\fotografije\obj\Debug\fotografije.csproj.CoreCompileInputs.cache
+C:\Pro2024\fotografije\obj\Debug\fotografije.exe
+C:\Pro2024\fotografije\obj\Debug\fotografije.pdb
