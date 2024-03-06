@@ -1,0 +1,11 @@
+C:\Pro2024\GDI\obj\Debug\GDI.csproj.AssemblyReference.cache
+C:\Pro2024\GDI\obj\Debug\GDI.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\GDI\obj\Debug\GDI.Form1.resources
+C:\Pro2024\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Pro2024\GDI\obj\Debug\GDI.csproj.GenerateResource.cache
+C:\Pro2024\GDI\obj\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Pro2024\GDI\bin\Debug\GDI.exe.config
+C:\Pro2024\GDI\bin\Debug\GDI.exe
+C:\Pro2024\GDI\bin\Debug\GDI.pdb
+C:\Pro2024\GDI\obj\Debug\GDI.exe
+C:\Pro2024\GDI\obj\Debug\GDI.pdb
