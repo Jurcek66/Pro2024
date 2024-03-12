@@ -1,0 +1,16 @@
+C:\Pro2024\Pritlikavci\bin\Debug\Pritlikavci.exe.config
+C:\Pro2024\Pritlikavci\bin\Debug\Pritlikavci.exe
+C:\Pro2024\Pritlikavci\bin\Debug\Pritlikavci.pdb
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.csproj.AssemblyReference.cache
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\Pritlikavci\obj\Debug\MainWindow.g.cs
+C:\Pro2024\Pritlikavci\obj\Debug\App.g.cs
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci_MarkupCompile.cache
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci_MarkupCompile.lref
+C:\Pro2024\Pritlikavci\obj\Debug\MainWindow.baml
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.g.resources
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.Properties.Resources.resources
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.csproj.GenerateResource.cache
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.csproj.CoreCompileInputs.cache
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.exe
+C:\Pro2024\Pritlikavci\obj\Debug\Pritlikavci.pdb

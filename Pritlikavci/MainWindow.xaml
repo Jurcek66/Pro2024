@@ -1,0 +1,48 @@
+﻿<Window x:Class="Pritlikavci.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pritlikavci"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="504" Width="642">
+    <Window.Resources>
+        <Style x:Key="stilGumba" TargetType="Control">
+            <Setter Property="Background" Value="Gray"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="Green"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="stilPisave" TargetType="Control">
+            <Setter Property="FontFamily" Value="Comic Sans MS"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="485" VerticalAlignment="Center" Width="890" Source="/bell.gif" Panel.ZIndex="0"/>
+        <Button Content="Dodaj" HorizontalAlignment="Left" Margin="155,442,0,0" VerticalAlignment="Top" Style="{DynamicResource stilGumba}" Panel.ZIndex="1" Click="Button_Click"/>
+        <Button Content="Klikni me" HorizontalAlignment="Left" Margin="241,442,0,0" VerticalAlignment="Top" Style="{DynamicResource stilGumba}" Click="Button_Click_1"/>
+        <Label Content="Ime" HorizontalAlignment="Left" Margin="75,44,0,0" VerticalAlignment="Top" Style="{DynamicResource stilPisave}" Width="80"/>
+        <Label Content="Priimek" HorizontalAlignment="Left" Margin="321,44,0,0" VerticalAlignment="Top" Style="{DynamicResource stilPisave}" Width="80"/>
+        <Label Content="Zvonik" HorizontalAlignment="Left" Margin="75,109,0,0" VerticalAlignment="Top" Style="{DynamicResource stilPisave}" Width="80"/>
+        <Label Content="Član od" HorizontalAlignment="Left" Margin="75,184,0,0" VerticalAlignment="Top" Style="{DynamicResource stilPisave}" Width="80"/>
+        <TextBox x:Name="txtime" HorizontalAlignment="Left" Margin="155,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Style="{DynamicResource stilGumba}"/>
+        <TextBox x:Name="txtpriimek" HorizontalAlignment="Left" Margin="401,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Style="{DynamicResource stilGumba}"/>
+        <ComboBox x:Name="cboZvoniki" HorizontalAlignment="Left" Margin="155,111,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource stilPisave}"/>
+        <DatePicker HorizontalAlignment="Left" Margin="155,185,0,0" VerticalAlignment="Top"/>
+        <GroupBox Header="Izkušnje&#xD;&#xA;" Margin="54,266,432,53">
+            <StackPanel>
+                <RadioButton Content="do 1 leta" HorizontalAlignment="Left" Margin="27,0,10,5" VerticalAlignment="Top" Style="{DynamicResource stilPisave}" IsChecked="True"/>
+                <RadioButton Content="od 1 do 4 leta" HorizontalAlignment="Left" Margin="27,0,10,5" VerticalAlignment="Top" Style="{DynamicResource stilPisave}"/>
+                <RadioButton Content="od 5 do 9 let" HorizontalAlignment="Left" Margin="27,0,10,5" VerticalAlignment="Top" Style="{DynamicResource stilPisave}"/>
+                <RadioButton Content="nad 10 let" Margin="27,0,10,5" Style="{DynamicResource stilPisave}"/>
+            </StackPanel>
+        </GroupBox>
+        <ListBox x:Name="lstmetode" Margin="340,193,40,73" Style="{DynamicResource stilPisave}"/>
+        <CheckBox Content="je Kapitan" HorizontalAlignment="Left" Margin="340,99,0,0" VerticalAlignment="Top" Style="{DynamicResource stilPisave}"/>
+
+    </Grid>
+</Window>
