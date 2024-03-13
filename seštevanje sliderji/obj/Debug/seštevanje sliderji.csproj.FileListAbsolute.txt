@@ -1,0 +1,16 @@
+C:\Pro2024\seštevanje sliderji\bin\Debug\seštevanje sliderji.exe.config
+C:\Pro2024\seštevanje sliderji\bin\Debug\seštevanje sliderji.exe
+C:\Pro2024\seštevanje sliderji\bin\Debug\seštevanje sliderji.pdb
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji.csproj.AssemblyReference.cache
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\seštevanje sliderji\obj\Debug\MainWindow.g.cs
+C:\Pro2024\seštevanje sliderji\obj\Debug\App.g.cs
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji_MarkupCompile.cache
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji_MarkupCompile.lref
+C:\Pro2024\seštevanje sliderji\obj\Debug\MainWindow.baml
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji.g.resources
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje_sliderji.Properties.Resources.resources
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji.csproj.GenerateResource.cache
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji.csproj.CoreCompileInputs.cache
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji.exe
+C:\Pro2024\seštevanje sliderji\obj\Debug\seštevanje sliderji.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seštevanje sliderji", "seštevanje sliderji.csproj", "{864FA3B1-A92B-4747-B6BE-1889C14CE222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864FA3B1-A92B-4747-B6BE-1889C14CE222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864FA3B1-A92B-4747-B6BE-1889C14CE222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864FA3B1-A92B-4747-B6BE-1889C14CE222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864FA3B1-A92B-4747-B6BE-1889C14CE222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B1111C-EA2E-4860-AA48-C54B9C947C55}
+	EndGlobalSection
+EndGlobal

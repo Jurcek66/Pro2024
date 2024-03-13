@@ -1,0 +1,28 @@
+﻿<Window x:Class="seštevanje_sliderji.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:seštevanje_sliderji"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="800">
+    <Grid>
+        <Slider x:Name="stotice1" HorizontalAlignment="Left" Margin="71,45,0,0" VerticalAlignment="Top" Width="363" SmallChange="1" Maximum="9" IsSnapToTickEnabled="True" ValueChanged="stotice1_ValueChanged"/>
+        <Slider x:Name="desetice1" HorizontalAlignment="Left" Margin="71,92,0,0" VerticalAlignment="Top" Width="363" SmallChange="1" Maximum="9" IsSnapToTickEnabled="True" ValueChanged="desetice1_ValueChanged"/>
+        <Slider x:Name="enice1" HorizontalAlignment="Left" Margin="71,134,0,0" VerticalAlignment="Top" Width="363" SmallChange="5" IsSnapToTickEnabled="True" Maximum="9" ValueChanged="enice1_ValueChanged"/>
+        <TextBox x:Name="textstot1" HorizontalAlignment="Left" Margin="519,45,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=stotice1}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textdes1" HorizontalAlignment="Left" Margin="519,92,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=desetice1}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="texten1" HorizontalAlignment="Left" Margin="519,134,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=enice1}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="st1" HorizontalAlignment="Left" Margin="502,216,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Slider x:Name="stotice2" HorizontalAlignment="Left" Margin="71,287,0,0" VerticalAlignment="Top" Width="363" SmallChange="1" Maximum="9" IsSnapToTickEnabled="True" ValueChanged="stotice2_ValueChanged"/>
+        <Slider x:Name="desetice2" HorizontalAlignment="Left" Margin="71,334,0,0" VerticalAlignment="Top" Width="363" SmallChange="1" Maximum="9" IsSnapToTickEnabled="True" ValueChanged="desetice2_ValueChanged"/>
+        <Slider x:Name="enice2" HorizontalAlignment="Left" Margin="71,376,0,0" VerticalAlignment="Top" Width="363" SmallChange="5" IsSnapToTickEnabled="True" Maximum="9" ValueChanged="enice2_ValueChanged"/>
+        <TextBox x:Name="textstot2" HorizontalAlignment="Left" Margin="519,287,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=stotice2}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textdes2" HorizontalAlignment="Left" Margin="519,334,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=desetice2}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="texten2" HorizontalAlignment="Left" Margin="519,376,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=enice2}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="st2" HorizontalAlignment="Left" Margin="502,458,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="izračun" Content="Izračunaj" HorizontalAlignment="Left" Margin="125,540,0,0" VerticalAlignment="Top" Click="izračun_Click"/>
+        <TextBox x:Name="rez" HorizontalAlignment="Left" Margin="234,541,0,0" TextWrapping="Wrap" Text="Rezultat" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
