@@ -1,0 +1,37 @@
+﻿<Window x:Class="okenska_aplikacija.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:okenska_aplikacija"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="mojstil" TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Comic Sans"/>
+            <Setter Property="Background" Value="Aquamarine"/>
+        </Style>
+        <Style x:Key="radio" TargetType="RadioButton">
+            <Setter Property="Margin" Value="0,10,0,0"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,0,3">
+        <TextBox x:Name="prvaST" HorizontalAlignment="Left" Margin="143,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Style="{DynamicResource mojstil}"/>
+        <TextBox x:Name="drugaST" HorizontalAlignment="Left" Margin="143,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Style="{DynamicResource mojstil}"/>
+        <TextBox x:Name="rezultat" HorizontalAlignment="Left" Margin="143,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Style="{DynamicResource mojstil}" IsReadOnly="True"/>
+        <Label Content="Prvo število" HorizontalAlignment="Left" Margin="33,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="Drugo število" HorizontalAlignment="Left" Margin="33,126,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rezultat" HorizontalAlignment="Left" Margin="33,0,0,0" VerticalAlignment="Center"/>
+        <Button x:Name="izračunaj" Content="Izračunaj" HorizontalAlignment="Left" Margin="104,347,0,0" VerticalAlignment="Top" Click="izračunaj_Click"/>
+        <Button Content="Izhod" HorizontalAlignment="Left" Margin="279,347,0,0" VerticalAlignment="Top"/>
+        <GroupBox Header="GroupBox" Margin="320,49,330,217">
+            <StackPanel>
+                <RadioButton x:Name="seštevanje" Content="Seštevanje" Style="{DynamicResource radio}" IsChecked="True"/>
+                <RadioButton x:Name="odštevanje" Content="Odštevanje" Style="{DynamicResource radio}"/>
+                <RadioButton x:Name="Množenje" Content="Množenje" Style="{DynamicResource radio}"/>
+                <RadioButton x:Name="deljenje" Content="Deljenje" Style="{DynamicResource radio}"/>
+            </StackPanel>
+        </GroupBox>
+        <CheckBox x:Name="neg_vr" Content="Pobarvaj če je vrednost negativna" HorizontalAlignment="Left" Margin="320,238,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

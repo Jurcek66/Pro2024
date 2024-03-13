@@ -1,0 +1,22 @@
+﻿<Window x:Class="mešanje_barv.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mešanje_barv"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Slider x:Name="Rdeča" HorizontalAlignment="Left" Margin="34,53,0,0" VerticalAlignment="Top" Width="366" Height="22" Minimum="0" Maximum="255" IsSnapToTickEnabled="True" SmallChange="1" LargeChange="10" ValueChanged="Rdeča_ValueChanged"/>
+        <Slider x:Name="Zelena" HorizontalAlignment="Left" Margin="34,126,0,0" VerticalAlignment="Top" Width="366" Height="22" Minimum="0" Maximum="255" IsSnapToTickEnabled="True" SmallChange="1" LargeChange="10" ValueChanged="Zelena_ValueChanged"/>
+        <Slider x:Name="Modra" HorizontalAlignment="Left" Margin="36,195,0,0" VerticalAlignment="Top" Width="364" Height="22" Minimum="0" Maximum="255" IsSnapToTickEnabled="True" SmallChange="1" LargeChange="10" ValueChanged="Modra_ValueChanged"/>
+        <Label Content="Rdeča" HorizontalAlignment="Left" Margin="194,76,0,0" VerticalAlignment="Top"/>
+        <Label Content="Zelena" HorizontalAlignment="Left" Margin="194,160,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.468,0.585"/>
+        <Label Content="Modra" HorizontalAlignment="Left" Margin="194,235,0,0" VerticalAlignment="Top"/>
+        <Rectangle x:Name="p1" HorizontalAlignment="Left" Height="247" Margin="461,53,0,0" Stroke="Black" VerticalAlignment="Top" Width="262" Fill="Black"/>
+        <TextBox x:Name="trdeča" HorizontalAlignment="Left" Margin="36,324,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=Rdeča}" VerticalAlignment="Top" Width="79" Height="41" Background="Red" FontSize="22" Foreground="White"/>
+        <TextBox x:Name="tzelena" HorizontalAlignment="Left" Margin="177,324,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=Zelena}" VerticalAlignment="Top" Width="79" Height="41" Background="Green" FontSize="22" Foreground="White"/>
+        <TextBox x:Name="tmodra" HorizontalAlignment="Left" Margin="321,324,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=Modra}" VerticalAlignment="Top" Width="79" Height="41" Background="Blue" FontSize="22" Foreground="White"/>
+
+    </Grid>
+</Window>

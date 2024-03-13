@@ -1,0 +1,16 @@
+C:\Pro2024\okenska aplikacija\bin\Debug\okenska aplikacija.exe.config
+C:\Pro2024\okenska aplikacija\bin\Debug\okenska aplikacija.exe
+C:\Pro2024\okenska aplikacija\bin\Debug\okenska aplikacija.pdb
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija.csproj.AssemblyReference.cache
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\okenska aplikacija\obj\Debug\MainWindow.g.cs
+C:\Pro2024\okenska aplikacija\obj\Debug\App.g.cs
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija_MarkupCompile.cache
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija_MarkupCompile.lref
+C:\Pro2024\okenska aplikacija\obj\Debug\MainWindow.baml
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija.g.resources
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska_aplikacija.Properties.Resources.resources
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija.csproj.GenerateResource.cache
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija.csproj.CoreCompileInputs.cache
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija.exe
+C:\Pro2024\okenska aplikacija\obj\Debug\okenska aplikacija.pdb

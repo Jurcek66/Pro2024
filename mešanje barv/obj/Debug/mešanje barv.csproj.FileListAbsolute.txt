@@ -1,0 +1,16 @@
+C:\Pro2024\mešanje barv\bin\Debug\mešanje barv.exe.config
+C:\Pro2024\mešanje barv\bin\Debug\mešanje barv.exe
+C:\Pro2024\mešanje barv\bin\Debug\mešanje barv.pdb
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv.csproj.AssemblyReference.cache
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\mešanje barv\obj\Debug\MainWindow.g.cs
+C:\Pro2024\mešanje barv\obj\Debug\App.g.cs
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv_MarkupCompile.cache
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv_MarkupCompile.lref
+C:\Pro2024\mešanje barv\obj\Debug\MainWindow.baml
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv.g.resources
+C:\Pro2024\mešanje barv\obj\Debug\mešanje_barv.Properties.Resources.resources
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv.csproj.GenerateResource.cache
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv.csproj.CoreCompileInputs.cache
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv.exe
+C:\Pro2024\mešanje barv\obj\Debug\mešanje barv.pdb
