@@ -1,0 +1,17 @@
+C:\Pro2024\validacija\bin\Debug\validacija.exe.config
+C:\Pro2024\validacija\bin\Debug\validacija.exe
+C:\Pro2024\validacija\bin\Debug\validacija.pdb
+C:\Pro2024\validacija\obj\Debug\validacija.csproj.AssemblyReference.cache
+C:\Pro2024\validacija\obj\Debug\validacija.csproj.SuggestedBindingRedirects.cache
+C:\Pro2024\validacija\obj\Debug\MainWindow.g.cs
+C:\Pro2024\validacija\obj\Debug\App.g.cs
+C:\Pro2024\validacija\obj\Debug\validacija_MarkupCompile.cache
+C:\Pro2024\validacija\obj\Debug\validacija_MarkupCompile.lref
+C:\Pro2024\validacija\obj\Debug\MainWindow.baml
+C:\Pro2024\validacija\obj\Debug\validacija.g.resources
+C:\Pro2024\validacija\obj\Debug\validacija.Properties.Resources.resources
+C:\Pro2024\validacija\obj\Debug\validacija.csproj.GenerateResource.cache
+C:\Pro2024\validacija\obj\Debug\validacija.csproj.CoreCompileInputs.cache
+C:\Pro2024\validacija\obj\Debug\validacija.exe
+C:\Pro2024\validacija\obj\Debug\validacija.pdb
+C:\Pro2024\validacija\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,44 @@
+﻿<Window x:Class="validacija.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:validacija"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="366" Width="470">
+    <Window.Resources>
+        <local:nakupkarte x:Key="nakup"/>
+        <Style x:Key="napakaStil" TargetType="Control">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={x:Static RelativeSource.Self}, Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="40,40,0,0" TextWrapping="Wrap" Text="Dogodek" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,80,0,0" TextWrapping="Wrap" Text="Številka kupca" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,120,0,0" TextWrapping="Wrap" Text="Status" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,160,0,0" TextWrapping="Wrap" Text="Število kart" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="178,37,0,0" VerticalAlignment="Top" Width="120" Text="{Binding Imedogodka, Mode=TwoWay, Source={StaticResource nakup}, ValidatesOnExceptions=True}" Style="{DynamicResource napakaStil}">
+            <ComboBoxItem/>
+            <ComboBoxItem Content="AC/DC"/>
+            <ComboBoxItem Content="Rok Otočec"/>
+            <ComboBoxItem Content="Omar Naber"/>
+            <ComboBoxItem Content="Adi Smolar"/>
+        </ComboBox>
+        <TextBox HorizontalAlignment="Left" Margin="178,80,0,0" TextWrapping="Wrap" Text="{Binding Štkupca, Mode=TwoWay, Source={StaticResource nakup}, ValidatesOnExceptions=True}" VerticalAlignment="Top" Width="120" Style="{DynamicResource napakaStil}"/>
+        <ComboBox HorizontalAlignment="Left" Margin="178,128,0,0" VerticalAlignment="Top" Width="120" Text="{Binding Nivo, Mode=TwoWay, Source={StaticResource nakup}, ValidatesOnExceptions=True}" Style="{DynamicResource napakaStil}">
+            <ComboBoxItem Content="Standard"/>
+            <ComboBoxItem Content="Premium"/>
+            <ComboBoxItem Content="Executive"/>
+            <ComboBoxItem Content="Premium executive"/>
+        </ComboBox>
+        <Slider x:Name="sldštevilo" HorizontalAlignment="Left" Margin="178,160,0,0" VerticalAlignment="Top" Width="120" SmallChange="1" IsSnapToTickEnabled="True" Value="{Binding ŠtVstopnic, Mode=TwoWay, Source={StaticResource nakup}, ValidatesOnExceptions=True}" Style="{DynamicResource napakaStil}"/>
+        <TextBox x:Name="box" HorizontalAlignment="Left" Margin="330,160,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=sldštevilo}" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="nakup" Content="Nakup" HorizontalAlignment="Left" Margin="38,218,0,0" VerticalAlignment="Top" Height="37" Width="61"/>
+    </Grid>
+</Window>
